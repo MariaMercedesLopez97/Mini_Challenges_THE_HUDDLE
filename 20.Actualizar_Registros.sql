@@ -1,0 +1,1 @@
+UPDATE Usuarios SET nombre = 'Maria' WHERE id = 1;
